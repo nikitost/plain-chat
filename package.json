@@ -1,0 +1,23 @@
+{
+  "name": "plain-chat",
+  "version": "1.0.0",
+  "description": "Edu socket chat project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitost/plain-chat.git"
+  },
+  "author": "nikitost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitost/plain-chat/issues"
+  },
+  "homepage": "https://github.com/nikitost/plain-chat#readme",
+  "dependencies": {
+    "uWebSockets.js": "github:unetworking/uwebsockets.js#v20.33.0"
+  }
+}
